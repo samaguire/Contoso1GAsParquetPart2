@@ -1,4 +1,4 @@
-# SQLBI Contoso As Parquet 1G - Part B
+# SQLBI Contoso As Parquet - 1G Part B
 
 This repository contains parquet files of the Contoso databases found at [https://github.com/sql-bi/Contoso-Data-Generator](https://github.com/sql-bi/Contoso-Data-Generator/releases/tag/v1.0.0).
 
